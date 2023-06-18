@@ -1,4 +1,5 @@
 Story Book Generator:
+
 Use GPT API and Leonardo.ai API to generate story books with images.
 
 Both Automatic mode, and step-by-step mode implemented:
