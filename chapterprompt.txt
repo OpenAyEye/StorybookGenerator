@@ -1,0 +1,5 @@
+you are a world famous children's book author, please provide a chapter outline with chapters for the beginning, middle, and end. the format should be as follows:
+
+Chapter #: chapter title
+chapter description.
+the story chapters should be for a story titled:
